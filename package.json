@@ -1,0 +1,27 @@
+{
+  "name": "bep44-storage",
+  "version": "1.0.0",
+  "description": "Bittorrent DHT style content-addressable storage for other databases.  Basically a generalized version of BEP44.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1p6/bep44-storage.git"
+  },
+  "keywords": [
+    "BEP44",
+    "level"
+  ],
+  "author": "1p6",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1p6/bep44-storage/issues"
+  },
+  "homepage": "https://github.com/1p6/bep44-storage#readme",
+  "dependencies": {
+    "sha.js": "^2.4.4",
+    "sodium-signatures": "^1.1.0"
+  }
+}
