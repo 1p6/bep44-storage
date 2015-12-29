@@ -1,5 +1,5 @@
 # bep44-storage
-Bittorrent DHT style content-addressable storage for other databases. Basically BEP 44 for other databases.
+Bittorrent DHT style content-addressable storage for other databases. Basically a generalized version of BEP44.
 
 ## Example
 ``` javascript
